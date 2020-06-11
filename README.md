@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification
-Classifying whether or not a tumor is malignant or benign using Breast cancer wisconsin dataset
+Classifying whether or not a tumor is malignant or benign using Breast cancer wisconsin dataset with Artificial Neural Networks(ANN)
 
 Data collected from UCI machine learning repository
 
