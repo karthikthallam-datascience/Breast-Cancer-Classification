@@ -20,3 +20,15 @@ Steps involved :
 7) Creating a model to get rid off overfitting using DropOut layers
 
 8) Model Evaluation
+
+** Visualizing the performance of network using Tensorboard
+
+Callbacks records events for TensorBoard. Such as:
+
+1) Metrics summarization
+
+2) Training Phase Visualization
+
+3) Activations Histograms
+
+4) Sampled Profiling
